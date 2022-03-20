@@ -1,0 +1,6 @@
+name: LastWorldLocation
+version: '${project.version}'
+main: org.horizons_server.lastworldlocation.LastWorldLocation
+api-version: 1.18
+authors: [ Dinty1 ]
+description: Teleports players to their last location in a certain world when they join it
